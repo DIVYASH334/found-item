@@ -1,0 +1,6 @@
+flask
+pillow
+numpy
+# Optional (real CLIP AI). Without these the app still runs using a colour-histogram fallback:
+# torch
+# transformers
